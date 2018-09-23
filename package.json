@@ -1,0 +1,17 @@
+{
+  "name": "react-app-rewire-antd-less",
+  "version": "0.0.2",
+  "description": "a css split tool for antd (less), consult react-app-rewire-less",
+  "main": "index.js",
+  "author": "flasco",
+  "private": false,
+  "license": "BSD",
+  "dependencies": {
+    "less": "^3.0.2",
+    "less-loader": "^4.1.0",
+    "npm": "^6.4.1"
+  },
+  "peerDependencies": {
+    "react-app-rewired": "^1.5.2"
+  }
+}
